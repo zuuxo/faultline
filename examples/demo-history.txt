@@ -1,0 +1,17 @@
+Example signal profile:
+
+src/auth/session.ts
+  changes: 42
+  bugfix changes: 17
+  merge touches: 8
+  incoming dependencies: 12
+  outgoing dependencies: 6
+  co-change partners: 14
+
+src/ui/theme.ts
+  changes: 5
+  bugfix changes: 0
+  merge touches: 0
+  incoming dependencies: 2
+  outgoing dependencies: 1
+  co-change partners: 2
